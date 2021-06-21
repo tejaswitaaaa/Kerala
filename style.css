@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sticky{
+    position: sticky;
+}
+#Search{
+    margin-right: 40px;
+    background-color: rgb(212, 34, 34);
+    color: black;
+    border-color: black;
+}
+#Login{
+    background-color: yellowgreen;
+    margin-right: 10px;
+    color: black;
+    border-color: black;
+}
+#Signup{
+    background-color: yellow;
+    color: black;
+    border-color: black;
+}
+.headings{
+    color: white !important;
+}
+.headings:hover{
+    color: rgb(202, 149, 87) !important;
+}
+.crousel-headings{
+    color: white;
+}
+.kerala{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.heading1{
+    color: brown;
+    width: 70vh;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: Book Antiqua;
+}
+.our-bookings{
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.our-bookings:hover{
+cursor: pointer;
+}
+.footer-container{
+    background-color: #212529;
+    margin-top: 20%;
+}
+.footer{
+    width: 60%;
+    height: 200px;
+    background-color: #212529;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin:  auto;
+}
+.footer-heading{
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+    justify-content: center;
+
+}
+.footer-heading h2{
+    margin-bottom: 28px;
+  
+}
+.footer-heading a{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    font-size: 12px;
+}
+.footer-heading a:hover{
+    color: gray;
+    transition: 0.5s ease-out;
+}
+.footer2 h2{
+    padding-top: 5px;
+}
+
+}
+.hotels{
+    height: 250px;
+  width: 100%;
+}
+.cards{
+    margin-top: 50px;
+    width: 50%;
+    margin-left: 400px;
+}
+.cards h5{
+    color: rgb(212, 34, 34);
+}
+.cards:hover{
+    cursor: pointer;
+}
+.cardwriteup{
+    background-color: #CFD8DC;
+}
+.placard-inner{
+    margin-left: 20px;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.small-cards{
+    margin-bottom: 30px;
+}
+.actual-small-card{
+    background-color: rgb(226, 226, 141);
+    width: 100%;
+}
+.card-buttons{
+    background-color: brown;
+}
+.right-cards{
+    border: 1px solid red;
+}
+.destination{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.map{
+    display: flex;
+    justify-content: center;
+    margin-bottom: -100px ;
+}
+
